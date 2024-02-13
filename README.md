@@ -1,6 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
   
 
 ### <div align="center">I'm Karan Singh , a full-time Network / IT Engineer 👨‍💻 working in Uniproducts India Pvt Ltd since Jan 2024 🚀</div>  
