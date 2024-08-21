@@ -1,9 +1,9 @@
   
 
-### <div align="center">I'm Karan Singh , a full-time Network / IT Engineer 👨‍💻 working in Uniproducts India Pvt Ltd 🚀</div>  
+### <div align="center">I'm Karan Singh , a full-time DevOps Engineer 👨‍💻 working in AmpleTrails 🚀</div>  
   
 
-- 🔭 I’m currently working as IT Executive in my Organisation  
+- 🔭 I’m currently working as DevOps Engineer in my Organisation  
   
 
 - 🌱 I’m currently learning DevOps Concepts like CI/CD, Jenkins, Terraform, AWS, Docker and Kubernetes  
