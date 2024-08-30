@@ -6,7 +6,7 @@
 - 🔭 I’m currently working as DevOps Engineer in my Organisation  
   
 
-- 🌱 I’m currently learning DevOps Concepts like CI/CD, Jenkins, Terraform, AWS, Docker and Kubernetes  
+- 🌱 I’m currently working with DevOps Concepts like CI/CD, Jenkins, Terraform, AWS, Docker and Kubernetes  
   
 
 - ❓ Ask me about anything related to Web Designing, Programming and related technologies  
